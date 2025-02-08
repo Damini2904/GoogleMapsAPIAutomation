@@ -9,8 +9,6 @@ Java: Core programming language.
 
 TestNG: Testing framework for test execution and reporting.
 
-Selenium (optional): For any UI-based testing if required.
-
 Maven: Dependency management and build tool.
 
 Faker: Used for generating random test data.
