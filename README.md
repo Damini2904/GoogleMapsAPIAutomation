@@ -4,6 +4,7 @@ This project provides an automation framework for testing the Google Maps API us
 such as geolocation services, place details, and route calculations.
 
 🛠️ Technologies Used
+
 Java: Core programming language.
 TestNG: Testing framework for test execution and reporting.
 Selenium (optional): For any UI-based testing if required.
@@ -13,6 +14,7 @@ REST Assured: API testing framework for HTTP methods and validations.
 GitHub: Version control.
 
 🚀 Features
+
 Automated test scripts for Google Maps API endpoints.
 Parameterized test cases using TestNG.
 Assertions to validate API responses.
